@@ -7,3 +7,4 @@ Now you can specify the numbers of characters your password will have.
 When program finishes, it opens {someName}.txt.
 
 The password will automatically be copied to your clipboard.
+
